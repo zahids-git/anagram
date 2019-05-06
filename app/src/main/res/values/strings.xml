@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anagram</string>
+    <string name="type_first_word">Type first word ..</string>
+    <string name="type_another_word">Type another word ...</string>
+</resources>
